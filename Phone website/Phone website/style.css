@@ -1,0 +1,44 @@
+.maincontainer {
+    background: url(./website.png);
+    height: 100%;
+
+}
+
+.headmain {
+    padding: 150px 100px;
+    color: aliceblue;
+}
+
+.heading {
+    position: absolute;
+    left: 60%;
+}
+
+.sdoapp {
+    box-shadow: 8px 0px 8px 8px;
+
+}
+
+.head {
+    background-color: rgb(124, 121, 121);
+}
+
+.mainheading {
+    background: url(./banner2.jpg);
+    height: 100%;
+
+}
+
+.headline {
+    padding: left 200px;
+    ;
+}
+
+.button {
+    display: flex;
+}
+
+.Contact {
+    background: url(./background.jpg);
+    width: 100%;
+}
